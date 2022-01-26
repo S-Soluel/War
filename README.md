@@ -7,4 +7,4 @@ The four files that were utilized for this project were put into a package named
 3. DeckTest.java    - Utilizes several tests to make sure that the Deck.java file is working as expected. 
 4. War.java         - Lastly, this file sets up the card game "War" and provides the user with some level of interaction within the execution of the file. 
 
-File 1 (Card.java) was provided by Professor Timothy Urness who was teaching the course, while files 2, 3, and 4 were created mainly independently, with some troubleshooting advice and feedback provided by the professor. 
+File 1 (Card.java) was provided by the professor who was teaching the course, while files 2, 3, and 4 were created mainly independently, with some troubleshooting advice and feedback provided. 
